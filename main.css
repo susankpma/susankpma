@@ -1,6 +1,3 @@
-.oswald-<uniquifier> {
-  font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+body {
+  font-family: "Press Start 2P", sans-serif;
 }
